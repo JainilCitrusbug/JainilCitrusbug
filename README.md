@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./jaineel.gif" alt="Jainil" width="700"/>
+  <img src="./jaineel-unscreen.gif" alt="Jainil" width="700"/>
 </p>
 
 # Hi there, I'm Jainil! 👋

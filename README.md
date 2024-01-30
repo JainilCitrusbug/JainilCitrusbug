@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdscvitpune%2Fgetting-started-with-react-js-bbf50da9aaf1&psig=AOvVaw2S7pXi1YKgzF90ygNSvqCx&ust=1706686983960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPimgs7OhIQDFQAAAAAdAAAAABAD" alt="Jainil" width="700"/>
+  <img src="./jaineel.gif" alt="Jainil" width="700"/>
 </p>
 
 # Hi there, I'm Jainil! 👋
